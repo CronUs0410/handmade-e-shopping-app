@@ -23,7 +23,31 @@ An Android e-commerce application built using **Java** and **Firebase** for hand
 - Glide
 
 ## 📸 Demo / Screenshots
-(Available on request)
+## 📸 App Screenshots
+
+### 🔐 User Authentication (Sign Up)
+![Sign Up](screenshots/SignUp.jpg)
+
+---
+
+### 🏠 Home Screen
+![Home](screenshots/Home.jpg)
+
+---
+
+### 🛍️ Products Listing
+![Products](screenshots/Products.jpg)
+
+---
+
+### 📄 Product Details
+![Product Details](screenshots/Product%20Details.jpg)
+
+---
+
+### 🛠️ Admin Panel
+![Admin Panel](screenshots/Admin.jpg)
+
 
 ## 🔐 Source Code Access
 Full source code and advanced modules are **paid**.
