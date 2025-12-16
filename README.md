@@ -66,7 +66,7 @@ An Android e-commerce application built using **Java** and **Firebase** for hand
 ## 🔐 Source Code Access
 Full source code and advanced modules are **paid**.
 
-📲 Contact on WhatsApp: **7385689102**
+📲 Contact: **anujramjiyani1005@gmail.com**
 
 ## 👨‍💻 Developer
 Anuj Ramjiyani  
