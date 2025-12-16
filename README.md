@@ -26,13 +26,45 @@ An Android e-commerce application built using **Java** and **Firebase** for hand
 ## 📸 App Screenshots
 
 ### 🔐 User Authentication (Sign Up)
-<h3>📸 App Screenshots</h3>
 
-<img src="screenshots/SignUp.jpg" width="220"/>
-<img src="screenshots/Home.jpg" width="220"/>
-<img src="screenshots/Products.jpg" width="220"/>
-<img src="screenshots/Product%20Details.jpg" width="220"/>
-<img src="screenshots/Admin.jpg" width="220"/>
+
+<h2>📸 App Screenshots</h2>
+
+<table>
+  <tr>
+    <td align="center"><b>Sign Up</b></td>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Products</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/SignUp.jpg" width="220"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Home.jpg" width="220"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Products.jpg" width="220"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><b>Product Details</b></td>
+    <td align="center"><b>Admin Panel</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Product%20Details.jpg" width="220"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Admin.jpg" width="220"/>
+    </td>
+  </tr>
+</table>
 
 
 
