@@ -26,27 +26,14 @@ An Android e-commerce application built using **Java** and **Firebase** for hand
 ## 📸 App Screenshots
 
 ### 🔐 User Authentication (Sign Up)
-![Sign Up](screenshots/SignUp.jpg)
+<h3>📸 App Screenshots</h3>
 
----
+<img src="screenshots/SignUp.jpg" width="220"/>
+<img src="screenshots/Home.jpg" width="220"/>
+<img src="screenshots/Products.jpg" width="220"/>
+<img src="screenshots/Product%20Details.jpg" width="220"/>
+<img src="screenshots/Admin.jpg" width="220"/>
 
-### 🏠 Home Screen
-![Home](screenshots/Home.jpg)
-
----
-
-### 🛍️ Products Listing
-![Products](screenshots/Products.jpg)
-
----
-
-### 📄 Product Details
-![Product Details](screenshots/Product%20Details.jpg)
-
----
-
-### 🛠️ Admin Panel
-![Admin Panel](screenshots/Admin.jpg)
 
 
 ## 🔐 Source Code Access
