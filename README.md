@@ -22,12 +22,8 @@ An Android e-commerce application built using **Java** and **Firebase** for hand
 - RecyclerView
 - Glide
 
-## 📸 App Screenshots
 
-
-
-
-<h2>📸 App Screenshots</h2>
+<h3>📸 App Screenshots</h3>
 
 <table>
   <tr>
